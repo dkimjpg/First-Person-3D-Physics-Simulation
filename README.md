@@ -8,3 +8,6 @@ Look around with the mouse and left-click to interact with the environment by fi
 # What's the purpose of this simulator, anyway?
 It was originally intended to be a clone of the video game Doom, but after working on it for a while, it became more of an exercise of Unity's physics engine and its capabilities. 
 I'll experiment with this program even more as I work on it, maybe even adding functionality to stick to walls, slipping on certain floors, or even creating sticky ceilings to attach the user to.
+
+Demo of the simulator in action:
+![Demo:](https://github.com/dkimjpg/First-Person-3D-Physics-Simulation/blob/master/Assets/Screenshot%201.png)
